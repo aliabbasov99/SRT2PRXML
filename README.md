@@ -2,7 +2,7 @@
 
 A tool for converting the subtitle file (SRT) to PremierePro-supported XML.
 
-Website: http://srt2prxml.chdo.xyz
+Website: [http://srt2prxml.chdo.xyz](https://srt-2-prxml.vercel.app/)
 
 # Background
 
